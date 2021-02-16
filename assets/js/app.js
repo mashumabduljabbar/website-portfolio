@@ -19,6 +19,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="Pendidikan">Pendidikan & Pelatihan</a></li>
    <li class="nav-item"><a class="nav-link" href="Pengalaman">Pengalaman</a></li>
    <li class="nav-item"><a class="nav-link" href="Proyek">Proyek</a></li>
+   <li class="nav-item"><a class="nav-link" href="assets/cv.pdf" target="_blank">Download CV</a></li>
   </ul>
 </div>
 </nav>`);

@@ -4,7 +4,9 @@
 <head>
     <title>Ma'shum Abdul Jabbar | <?php echo $this->router->fetch_class();?></title>
     <meta charset="UTF-8">
-	<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords"
         content="portofolio, portfolio, Ma'shum, Abdul, Jabbar, Ma'shum Abdul Jabbar, ECS, AlibabaCloud, Codepolitan, re-cloud" />
@@ -14,14 +16,14 @@
     <meta name="robots" content="index,follow" />
     <meta name="Googlebot" content="index,follow" />
     <meta name="AdsBot-Google" content="index,follow" />
-    <meta property="og:site_name" content="https://multimediary.my.id/">
+    <meta property="og:site_name" content="https://multimediary.my.id/<?php echo $this->router->fetch_class();?>">
     <meta property="og:title" content="Ma'shum Abdul Jabbar | <?php echo $this->router->fetch_class();?>">
     <meta property="og:description"
         content="Portofolio Ma'shum Abdul Jabbar">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://multimediary.my.id/">
+    <meta property="og:url" content="https://multimediary.my.id/<?php echo $this->router->fetch_class();?>">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="https://multimediary.my.id/">
+    <meta name="twitter:site" content="https://multimediary.my.id/<?php echo $this->router->fetch_class();?>">
     <meta name="application-name" content="Ma'shum Abdul Jabbar | <?php echo $this->router->fetch_class();?>" />
     <meta name="apple-mobile-web-app-title" content="Ma'shum Abdul Jabbar | <?php echo $this->router->fetch_class();?>" />
     <meta name="summary"
