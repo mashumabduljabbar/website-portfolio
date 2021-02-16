@@ -83,40 +83,58 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Ikatan Alumni Universitas MH Thamrin",
+    cardImage: "assets/images/experience-page/logo-ika.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Sekretaris Jenderal<br>(Periode : 2019 - 2021)",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Panitia Webinar Digital Entrepreneurship",
+    cardImage: "assets/images/experience-page/IGFeedmoderator.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Ketua Panitia<br>(2020)",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "Marijo Belajar",
+    cardImage: "assets/images/experience-page/marijo-belajar-497x375.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Volunteer Public Relation<br>(2020)",
   },
   {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
+    title: "Kita Korban Bullying",
+    cardImage: "assets/images/experience-page/kkb.png",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Volunteer Public Relation<br>(2020)",
   },
   {
-    title: "30 DaysofFlutter",
-    cardImage: "assets/images/experience-page/5.jpg",
+    title: "Human Webinar",
+    cardImage: "assets/images/experience-page/Logo-Muhammadiyah-Covid-19-Horizontal-1.png",
     description:
-      "Helping beginners from their first steps in Flutter to building fully functional cross-platform applications.",
+      "Volunteer Public Relation<br>(2020)",
   },
   {
-    title: "Garuda Hacks",
-    cardImage: "assets/images/experience-page/6.jpg",
+    title: "Resimen Mahasiswa Batalyon 041 Indra Buana",
+    cardImage: "assets/images/experience-page/indra-buana1.png",
     description:
-      "MLH sponsored Indonesia's premier Global Virtual Hackathon on 14 - 16th August 2020.",
+      "Komandan Kompi<br>(2013 - 2015)",
+  },
+  {
+    title: "Himpunan Mahasiswa Program Studi Teknik Informatika",
+    cardImage: "assets/images/experience-page/universitasterbaik.xyz.png",
+    description:
+      "Pengurus<br>(2013)",
+  },
+  {
+    title: "School Update Riau Televisi",
+    cardImage: "assets/images/experience-page/su.jpeg",
+    description:
+      "Pengurus<br>(2009 - 2012)",
+  },
+  {
+    title: "Pramuka",
+    cardImage: "assets/images/experience-page/pramuka2blogo.png",
+    description:
+      "Anggota<br>(2006 - 2012)",
   },
 ];
 
@@ -143,16 +161,16 @@ document.addEventListener("DOMContentLoaded", showCards);
 const mentorshipcards = document.querySelector(".mentorship-cards");
 const mentor = [
   {
-    title: "HakinCode",
-    image: "assets/images/experience-page/hakin.png",
-    time: "06/2020 - 08/2020",
-    desp: "<li>It is an open source community where students and mentors can apply.</li><hr /><li>Ample amount of technologies and projects are there and we are given opportunity to work on them according to our interest and knowledge.</li>",
+    title: "PT. Batam Bintan Telekomunikasi",
+    image: "assets/images/experience-page/logobbtnew.png",
+    time: "12 November - 30 Desember 2014",
+    desp: "<li>Pengambilan gambar dan pembuatan design Kalender Perusahaan Tahun 2015</li><li>Konfigurasi aplikasi Radius dan MikroTik</li><hr /><li>Laporan Akhir : Manajamen bandwidth hotspot BBZON-Wifi menggunakan RADIUSdesk dan Captive Portal Chillispot pada wilayah operasi PT. Batam Bintan Telekomunikasi.</li>",
   },
   {
-    title: "Google Summer of Code",
-    image: "assets/images/experience-page/gsoc.png",
-    time: "03/2020 - 08/2020",
-    desp: "<li>Google Summer of Code is a global program focused on introducing students to open source software development.</li><hr /><li>It is a great platform to explore new areas, maybe discover a new career path!</li>",
+    title: "PT. Riau Media Televisi",
+    image: "assets/images/experience-page/rtv.jpg",
+    time: "17 Januari - 27 Juni 2011",
+    desp: "<li>Peliputan Berita.</li><li>Produksi Program</li><li>Menulis berita televisi</li><li>Pengambilan gambar</li><li>Editing gambar</li><li>Presenter news</li><hr /><li>Terlibat penuh dalam produksi program TV School Update dan School Update Weekend</li>",
   },
 ];
 

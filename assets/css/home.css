@@ -11,6 +11,10 @@ html[data-theme="light"] {
   --bg-icon: #fff;
    --bg1-color: #fff;
   --col-icon-twitter: #1da1f2;
+  --col-icon-instagram: #8a3ab9;
+  --col-icon-facebook: #4c68d7;
+  --col-icon-google: #4c68d7;
+  --col-icon-youtube: #4c68d7;
   --col-icon-dribbble: #ea4c89;
   --col-icon-linkedin: #0e76a8;
   --col-icon-medium: #00ab6c;
@@ -33,6 +37,10 @@ html[data-theme="dark"] {
   --col-box-shadow-hover:inset rgba(255, 255, 255, 1) 2px 2px 4px, 
  inset rgba(255, 255, 255, 0.5) -2px -2px 4px;
   --col-icon-twitter: #1da1f2;
+  --col-icon-instagram: #8a3ab9;
+  --col-icon-facebook: #4c68d7;
+  --col-icon-google: #4c68d7;
+  --col-icon-youtube: #4c68d7;
   --col-icon-dribbble: #ea4c89;
   --col-icon-linkedin: #0e76a8;
   --col-icon-medium: #00ab6c;
@@ -188,6 +196,18 @@ body{
 .socialicon.twitter{
   color: var(--col-icon-twitter);
 }
+.socialicon.instagram{
+  color: var(--col-icon-instagram);
+}
+.socialicon.facebook{
+  color: var(--col-icon-facebook);
+}
+.socialicon.youtube{
+  color: var(--col-icon-youtube);
+}
+.socialicon.google{
+  color: var(--col-icon-google);
+}
 
 .socialicon.github{
   color:var(--col-icon-github);
@@ -222,6 +242,26 @@ body{
 .socialicon.twitter:after {
   background-color: #1da1f2;
   box-shadow: var(--twitter);
+}
+
+.socialicon.instagram:after {
+  background-color: #fbad50;
+  box-shadow: var(--instagram);
+}
+
+.socialicon.facebook:after {
+  background-color: #4c68d7;
+  box-shadow: var(--facebook);
+}
+
+.socialicon.youtube:after {
+  background-color: #4c68d7;
+  box-shadow: var(--youtube);
+}
+
+.socialicon.google:after {
+  background-color: #4c68d7;
+  box-shadow: var(--google);
 }
 
 .socialicon.github:after {

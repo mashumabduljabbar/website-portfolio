@@ -5,6 +5,176 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: " Bootcamp Spark AR Studio - Bisa AI",
+    cardImage: "assets/images/education-page/filter.jpg",
+    moocLink: "assets/images/education-page/filter.jpg",
+  },
+  {
+    title: " IT Governance Overview - Brainmatics",
+    cardImage: "assets/images/education-page/brain.jpg",
+    moocLink: "assets/images/education-page/brain.jpg",
+  },
+  {
+    title: "Bootcamp Rancang Bangun Internet of Things - Bisa AI",
+    cardImage: "assets/images/education-page/bootcampiot.jpg",
+    moocLink: "assets/images/education-page/bootcampiot.jpg",
+  },
+  {
+    title: "Workshop Pentest Samba Hack - G Inova",
+    cardImage: "assets/images/education-page/sambahack.jpg",
+    moocLink: "assets/images/education-page/sambahack.jpg",
+  },
+  {
+    title: "Lean Six Sigma White Belt - Improvement Focus",
+    cardImage: "assets/images/education-page/whitebelt.jpg",
+    moocLink: "assets/images/education-page/whitebelt.jpg",
+  },
+  {
+    title: "Networking Essentials - Cisco",
+    cardImage: "assets/images/education-page/ite.jpg",
+    moocLink: "assets/images/education-page/ite.jpg",
+  },
+  {
+    title: "Data Science Fundamentals - Careerera",
+    cardImage: "assets/images/education-page/dsf.jpg",
+    moocLink: "assets/images/education-page/dsf.jpg",
+  },
+  {
+    title: "Using Git for Distributed Development - The Linux Foundation",
+    cardImage: "assets/images/education-page/git.jpg",
+    moocLink: "assets/images/education-page/git.jpg",
+  },
+  {
+    title: "Open Source Software Development Methods - The Linux Foundation",
+    cardImage: "assets/images/education-page/opensource.jpg",
+    moocLink: "assets/images/education-page/opensource.jpg",
+  },
+  {
+    title: "Linux Tools for Developers - The Linux Foundation",
+    cardImage: "assets/images/education-page/linuxtools.jpg",
+    moocLink: "assets/images/education-page/linuxtools.jpg",
+  },
+  {
+    title: "Linux for Developers - The Linux Foundation",
+    cardImage: "assets/images/education-page/linuxfor.jpg",
+    moocLink: "assets/images/education-page/linuxfor.jpg",
+  },
+  {
+    title: "System Administration and IT Infrastructure Services - Google",
+    cardImage: "assets/images/education-page/sysadmin.jpg",
+    moocLink: "assets/images/education-page/sysadmin.jpg",
+  },
+  {
+    title: "IT Security Defense againts the digital dark arts - Google",
+    cardImage: "assets/images/education-page/defense.jpg",
+    moocLink: "assets/images/education-page/defense.jpg",
+  },
+  {
+    title: "Operating Systems and You Becoming a Power User - Google",
+    cardImage: "assets/images/education-page/os.jpg",
+    moocLink: "assets/images/education-page/os.jpg",
+  },
+  {
+    title: "The Bits and Bytes of Computer Networking - Google",
+    cardImage: "assets/images/education-page/bits.jpg",
+    moocLink: "assets/images/education-page/bits.jpg",
+  },
+  {
+    title: "M100: MongoDB for SQL Pros - MongoDB University",
+    cardImage: "assets/images/education-page/mongo.jpg",
+    moocLink: "assets/images/education-page/mongo.jpg",
+  },
+  {
+    title: "Technical Support Fundamentals - Google",
+    cardImage: "assets/images/education-page/ts.jpg",
+    moocLink: "assets/images/education-page/ts.jpg",
+  },
+  {
+    title: "Deep Learning with TensorFlow - Cognitive Class",
+    cardImage: "assets/images/education-page/tensorflow.jpg",
+    moocLink: "assets/images/education-page/tensorflow.jpg",
+  },
+   {
+    title: "Database Design and Programming with SQL - KOMINFO",
+    cardImage: "assets/images/education-page/databasesql.jpg",
+    moocLink: "assets/images/education-page/databasesql.jpg",
+  },
+  {
+    title: "Microsoft AI Classroom Series - Microsoft",
+    cardImage: "assets/images/education-page/micosoftAI.jpg",
+    moocLink: "assets/images/education-page/micosoftAI.jpg",
+  },
+  {
+    title: "Deep Learning Fundamentals - Cognitive Class",
+    cardImage: "assets/images/education-page/deeplearning.jpg",
+    moocLink: "assets/images/education-page/deeplearning.jpg",
+  },
+  {
+    title: "Introduction to Cybersecurity Tools and Cyber Attacks - IBM",
+    cardImage: "assets/images/education-page/cyberattack.jpg",
+    moocLink: "assets/images/education-page/cyberattack.jpg",
+  },
+  {
+    title: "Introduction to Information Security - Cyber Army Academy",
+    cardImage: "assets/images/education-page/infosec.jpg",
+    moocLink: "assets/images/education-page/infosec.jpg",
+  },
+  {
+    title: "Complete PBX5 - Xorcom",
+    cardImage: "assets/images/education-page/xorcom.jpg",
+    moocLink: "assets/images/education-page/xorcom.jpg",
+  },
+  {
+    title: "Coding Experience Bootcamp - CfDS",
+    cardImage: "assets/images/education-page/codingbootcamp.jpg",
+    moocLink: "assets/images/education-page/codingbootcamp.jpg",
+  },
+  {
+    title: "Introduction to IoT - Cisco",
+    cardImage: "assets/images/education-page/iot.jpg",
+    moocLink: "assets/images/education-page/iot.jpg",
+  },
+  {
+    title: "Introduction to Packet Tracer - Cisco",
+    cardImage: "assets/images/education-page/itpt.jpg",
+    moocLink: "assets/images/education-page/itpt.jpg",
+  },
+  {
+    title: "Cybersecurity Essentials - Cisco",
+    cardImage: "assets/images/education-page/cybes.jpg",
+    moocLink: "assets/images/education-page/cybes.jpg",
+  },
+  {
+    title: "Data Visualization with Python - Cognitive Class",
+    cardImage: "assets/images/education-page/datavis.jpg",
+    moocLink: "assets/images/education-page/datavis.jpg",
+  },
+  {
+    title: "Introduction to Cybersecurity - Cisco",
+    cardImage: "assets/images/education-page/ics.jpg",
+    moocLink: "assets/images/education-page/ics.jpg",
+  },
+  {
+    title: "Data Analysis with Python - Cognitive Class",
+    cardImage: "assets/images/education-page/datanalaysys.jpg",
+    moocLink: "assets/images/education-page/datanalaysys.jpg",
+  },
+   {
+    title: "Introduction to Data Science - Cognitive Class",
+    cardImage: "assets/images/education-page/intods.jpg",
+    moocLink: "assets/images/education-page/intods.jpg",
+  },
+   {
+    title: "Data Science Hands-On with Open Source Tools - Cognitive Class",
+    cardImage: "assets/images/education-page/datasciencetool.jpg",
+    moocLink: "assets/images/education-page/datasciencetool.jpg",
+  },
+  {
+    title: "Data Science Methodology - Cognitive Class",
+    cardImage: "assets/images/education-page/datasciencemetod.jpg",
+    moocLink: "assets/images/education-page/datasciencemetod.jpg",
+  },
+  {
     title: "Python Data Science - SanberCode",
     cardImage: "assets/images/education-page/pythondatascience.jpg",
     moocLink: "assets/images/education-page/pythondatascience2.jpg",
@@ -28,16 +198,6 @@ const moocscards = [
     title: "SQL and Relational Databases - Cognitive Class",
     cardImage: "assets/images/education-page/sql101.jpg",
     moocLink: "assets/images/education-page/sql101.jpg",
-  },
-  {
-    title: "Introduction to Packet Tracer - Cisco",
-    cardImage: "assets/images/education-page/intropacket.jpg",
-    moocLink: "assets/images/education-page/intropacket.jpg",
-  },
-  {
-    title: "Introduction to Cybersecurity - Cisco",
-    cardImage: "assets/images/education-page/introcyber.jpg",
-    moocLink: "assets/images/education-page/introcyber.jpg",
   },
   {
     title: "Python-101 for Data Science - Cognitive Class",
