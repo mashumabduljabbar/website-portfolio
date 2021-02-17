@@ -26,7 +26,7 @@
     <meta name="summary"
         content="Portofolio Ma'shum Abdul Jabbar" />
     <!--For Dark/Light mode Toggle-->
-    <script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
+    <!--<script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>-->
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
