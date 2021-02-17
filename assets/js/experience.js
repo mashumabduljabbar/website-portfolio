@@ -162,7 +162,7 @@ const mentorshipcards = document.querySelector(".mentorship-cards");
 const mentor = [
   {
     title: "PT. Batam Bintan Telekomunikasi",
-    image: "assets/images/experience-page/logobbtnew.png",
+    image: "assets/images/experience-page/Logobbtnew.png",
     time: "12 November - 30 Desember 2014",
     desp: "<li>Pengambilan gambar dan pembuatan design Kalender Perusahaan Tahun 2015</li><li>Konfigurasi aplikasi Radius dan MikroTik</li><hr /><li>Laporan Akhir : Manajamen bandwidth hotspot BBZON-Wifi menggunakan RADIUSdesk dan Captive Portal Chillispot pada wilayah operasi PT. Batam Bintan Telekomunikasi.</li>",
   },
