@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Agustina";
-  src: url(../fonts/Agustina.woff);
+  font-family: Georgia, serif;
+  /*src: url(../fonts/Agustina.woff);*/
 }
 /*CSS variable declaration for light/dark mode*/
 html[data-theme="light"] {
