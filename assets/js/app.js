@@ -18,8 +18,10 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="Beranda">Beranda</a></li>
    <li class="nav-item"><a class="nav-link" href="Pendidikan">Pendidikan & Pelatihan</a></li>
    <li class="nav-item"><a class="nav-link" href="Pengalaman">Pengalaman</a></li>
+   <li class="nav-item"><a class="nav-link" href="Sertifikasi">Sertifikasi</a></li>
    <li class="nav-item"><a class="nav-link" href="Proyek">Proyek</a></li>
-   <li class="nav-item"><a class="nav-link" href="assets/cv.pdf" target="_blank">Download CV</a></li>
+   <li class="nav-item"><a class="nav-link" href="Publikasi">Publikasi</a></li>
+   <li class="nav-item"><a class="nav-link" href="assets/cv.pdf" target="_blank">Unduh CV</a></li>
   </ul>
 </div>
 </nav>`);

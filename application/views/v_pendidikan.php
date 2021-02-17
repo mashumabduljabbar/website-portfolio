@@ -29,7 +29,7 @@
       <div class="card mb-5" data-aos="fade-left" data-aos-delay="500">
         <div class="row">
           <div class="col-xl-6 col-md-6 col-sm-12">
-            <img src="assets/images/education-page/education.png">
+            <img src="assets/images/education-page/logo-universitas-bina-nusantara-ubinus.jpg" height="8%">
           </div>
           <div class="col-xl-6 col-md-6 col-sm-12 p-5">
             <h4>Pasca Sarjana</h4>
@@ -45,7 +45,7 @@
       <div class="card mb-5" data-aos="fade-right" data-aos-delay="500">
         <div class="row">
           <div class="col-xl-6 col-md-6 col-sm-12 p-5">
-            <img src="assets/images/education-page/education.png">
+            <img src="assets/images/education-page/440px-Logo_umht2020.png" height="100%">
           </div>
           <div class="col-xl-6 col-md-6 col-sm-12 p-5">
             <h4>Sarjana</h4>
@@ -61,7 +61,7 @@
       <div class="card mb-5" data-aos="fade-right" data-aos-delay="500">
         <div class="row">
           <div class="col-xl-6 col-md-6 col-sm-12 p-5">
-            <img src="assets/images/education-page/education.png">
+            <img src="assets/images/education-page/polkam.png" height="100%">
           </div>
           <div class="col-xl-6 col-md-6 col-sm-12 p-5">
             <h4>Diploma</h4>
@@ -101,4 +101,4 @@
 
   <!-- Dynamic footer section -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script type="text/javascript" src="<?php echo base_url();?>assets/js/education.js"></script>
+  <script type="text/javascript" src="<?php echo base_url();?>assets/js/education.js?rndstr=<%= getRandomStr() %>"></script>

@@ -55,4 +55,4 @@
     <!-- Dynamic footer section -->
 
     <!-- script -->
-    <script src="<?php echo base_url();?>assets/js/project.js"></script>
+    <script src="<?php echo base_url();?>assets/js/project.js?rndstr=<%= getRandomStr() %>"></script>
