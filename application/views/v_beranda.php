@@ -13,7 +13,7 @@
     <div class="text col-sm-6 pt-5 mt-5 mb-5">Hai, Saya <span class="header">Ma'shum Abdul Jabbar</span>
         <div class="center">
             <div>
-                <img src="assets/images/favicon.jpg" alt="" class="rounded-circle" height="210" width="200">
+                <img src="assets/images/me.jpg" alt="" class="rounded-circle" height="210" width="200">
             </div>
             <span style="display: inline;" >Saya seorang <span class="animated-text"
                 data-words="IT Enthusiast, Programmer, Database Administrator, Dosen, Content Creator"></span>

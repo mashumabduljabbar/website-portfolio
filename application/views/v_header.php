@@ -37,7 +37,7 @@
     <script src='https://kit.fontawesome.com/a076d05399.js'></script>
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/home.css"> 
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css"> 
-    <link rel="shortcut icon" href="<?php echo base_url();?>assets/images/favicon.jpg" type="image/x-jpg"> 
+    <link rel="shortcut icon" href="<?php echo base_url();?>assets/images/favicon.png" type="image/x-jpg"> 
     <!-- Favicon -->
     <!-- Font awesome icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
