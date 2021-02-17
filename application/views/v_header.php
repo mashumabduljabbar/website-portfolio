@@ -5,6 +5,7 @@
     <title>Ma'shum Abdul Jabbar | <?php echo $this->router->fetch_class();?></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Cache-Control" content="public" />
     <meta name="keywords"
         content="portofolio, portfolio, Ma'shum, Abdul, Jabbar, Ma'shum Abdul Jabbar, ECS, AlibabaCloud, Codepolitan, re-cloud" />
     <meta name="description"
