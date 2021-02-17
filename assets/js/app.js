@@ -15,12 +15,12 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-   <li class="nav-item"><a class="nav-link" href="Beranda">Beranda</a></li>
-   <li class="nav-item"><a class="nav-link" href="Pendidikan">Pendidikan & Pelatihan</a></li>
-   <li class="nav-item"><a class="nav-link" href="Pengalaman">Pengalaman</a></li>
-   <li class="nav-item"><a class="nav-link" href="Sertifikasi">Sertifikasi</a></li>
-   <li class="nav-item"><a class="nav-link" href="Proyek">Proyek</a></li>
-   <li class="nav-item"><a class="nav-link" href="Publikasi">Publikasi</a></li>
+   <li class="nav-item"><a class="nav-link" href="beranda">Beranda</a></li>
+   <li class="nav-item"><a class="nav-link" href="pendidikan">Pendidikan & Pelatihan</a></li>
+   <li class="nav-item"><a class="nav-link" href="pengalaman">Pengalaman</a></li>
+   <li class="nav-item"><a class="nav-link" href="sertifikasi">Sertifikasi</a></li>
+   <li class="nav-item"><a class="nav-link" href="proyek">Proyek</a></li>
+   <li class="nav-item"><a class="nav-link" href="publikasi">Publikasi</a></li>
    <li class="nav-item"><a class="nav-link" href="assets/cv.pdf" target="_blank">Unduh CV</a></li>
   </ul>
 </div>
