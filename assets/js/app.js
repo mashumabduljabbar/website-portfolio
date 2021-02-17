@@ -2,7 +2,7 @@
 
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-<a class="navbar-brand" href="Beranda"><img src='assets/images/logo.png' class="card-img-top content-image"></a>
+<a class="navbar-brand" href="beranda"><img src='assets/images/logo.png' class="card-img-top content-image"></a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> 
 
   <div id="js-hamburger" class="hamburger">
