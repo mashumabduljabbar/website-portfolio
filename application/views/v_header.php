@@ -52,5 +52,8 @@
 	  gtag('config', 'G-CJCSZP1ZVN');
 	</script>
     <!-- Fetching our Google Tag Manager -->
+	<style>
+	iframe, object, embed{max-width: 100%;}
+	</style>
 </head>
 <body>
