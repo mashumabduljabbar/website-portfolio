@@ -46,4 +46,4 @@
 
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css" />
     <link rel="stylesheet" href="<?php echo base_url();?>assets/css/experience.css" />
-    <script src="<?php echo base_url();?>assets/js/experience.js?rndstr=<%= getRandomStr() %>"></script>
+    <script src="<?php echo base_url();?>assets/js/experience.js?rndstr=<?php echo strtotime("now");?>"></script>

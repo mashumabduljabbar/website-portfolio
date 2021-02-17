@@ -36,4 +36,4 @@
 </div>
 
   <!-- Dynamic footer section -->
-  <script src="<?php echo base_url();?>assets/js/research.js?rndstr=<%= getRandomStr() %>"></script>
+  <script src="<?php echo base_url();?>assets/js/research.js?rndstr=<?php echo strtotime("now");?>"></script>

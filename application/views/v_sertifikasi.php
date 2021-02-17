@@ -14,4 +14,4 @@
 
   <!-- Dynamic footer section -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script type="text/javascript" src="<?php echo base_url();?>assets/js/certification.js?rndstr=<%= getRandomStr() %>"></script>
+  <script type="text/javascript" src="<?php echo base_url();?>assets/js/certification.js?rndstr=<?php echo strtotime("now");?>"></script>
