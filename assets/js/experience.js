@@ -40,7 +40,7 @@ const exp = [
   },
   {
     title: "Officer Technic",
-    cardImage: "assets/images/experience-page/logobbtnew.png",
+    cardImage: "assets/images/experience-page/Logobbtnew.png",
     place: "PT. Batam Bintan Telekomunikasi (BBT)",
     time: "(01 September 2015 s/d 31 Agustus 2016)",
     desp:"<li>Pengembangan Web Portal dan Database</li><li>Konfigurasi SIP Server, Klien VoIP dan IMS (IP Multimedia Subsystem)</li><li>Mengoperasikan softswitch dan IP PBX</li><li>Switching dan Routing untuk Interkoneksi Telco Provider</li><li>Perawatan dan pemecahan masalah perangkat IT.</li>",
