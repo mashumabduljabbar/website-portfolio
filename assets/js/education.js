@@ -314,10 +314,6 @@ const img = document.getElementById('image');
 const prevBtn = document.querySelector('#prevBtn');
 const nextBtn = document.querySelector('#nextBtn');
 
-window.addEventListener('DOMContentLoaded', function () {
-  showExperience();
-})
-
 const showCards = () => {
   let output = "";
   moocscards.forEach(
