@@ -76,15 +76,12 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-<<<<<<< HEAD
 	'username' => 'alibaba',
 	'password' => 'alibaba**2021',
 	'database' => 'portfolio',
-=======
 	'username' => 'root',
 	'password' => '',
 	'database' => '',
->>>>>>> 2a9909c15ca78e592c3335c293ca02e59f82f550
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
