@@ -5,12 +5,17 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: " Bootcamp Spark AR Studio - Bisa AI",
+    title: "Workshop Pentest Teknik Spyware",
+    cardImage: "assets/images/education-page/spywar.jpg",
+    moocLink: "assets/images/education-page/spywar.jpg",
+  },
+  {
+    title: "Bootcamp Spark AR Studio - Bisa AI",
     cardImage: "assets/images/education-page/filter.jpg",
     moocLink: "assets/images/education-page/filter.jpg",
   },
   {
-    title: " IT Governance Overview - Brainmatics",
+    title: "IT Governance Overview - Brainmatics",
     cardImage: "assets/images/education-page/brain.jpg",
     moocLink: "assets/images/education-page/brain.jpg",
   },
@@ -208,13 +213,7 @@ const moocscards = [
     title: "Be A White Hat Hacker and Pen Tester - Eduonix",
     cardImage: "assets/images/education-page/whitehacker.jpg",
     moocLink: "assets/images/education-page/whitehacker.jpg",
-  },
-  {
-    title: "Certified Network Security Specialist - ICSI",
-    cardImage: "assets/images/education-page/icsi.jpg",
-    moocLink: "assets/images/education-page/icsi.jpg",
-  },
-  {
+  },{
     title: "Outlier Detection Algorithms - Udemy",
     cardImage: "assets/images/education-page/datamining.jpg",
     moocLink: "assets/images/education-page/datamining.jpg",
