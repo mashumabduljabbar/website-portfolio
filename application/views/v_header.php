@@ -45,14 +45,14 @@
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">-->
 	<!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CJCSZP1ZVN"></script>
-	<!-- Turn Off GOogle Analytics selama Challenge 
+	<!-- Turn Off GOogle Analytics selama Challenge  -->
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 	  gtag('config', 'G-CJCSZP1ZVN');
 	</script>
-	-->
+	
     <!-- Fetching our Google Tag Manager -->
 	<style>
 	iframe, object, embed{max-width: 100%;}
