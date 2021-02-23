@@ -113,6 +113,15 @@ const moocscards = [
     Badge: "https://www.youracclaim.com/badges/64a6eac6-d432-4648-986a-a0779255e2d8",
   },
   {
+    title: "Certified Network Security Specialist (CNSS)",
+    ID: "18981258",
+    DATE: "2020-06-03",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/cnss.png",
+    moocLink: "assets/images/certification-page/cnss.pdf",
+    Badge: "https://www.credential.net/72f7d481-d0f5-4d26-9de0-db8ad2e05429",
+  },
+  {
     title: "MikroTik Certified Routing Engineer (MTCRE)",
     ID: "1603RE077",
     DATE: "2016-03-13",
@@ -169,7 +178,7 @@ const showCards = () => {
                     <img src=${cardImage} class="card-img-top content-image">     
                   <div class="content-details fadeIn-bottom">
                     <a title="Sertifikat"  href="${moocLink}" target="_blank"><i class="fa fa-file-pdf fa-3x" aria-hidden="true" style="color: white;"></i></a>                                   
-                    <a title="Badge" href="${Badge}" target="_blank"><i class="fa fa-info-circle fa-3x" aria-hidden="true" style="color: white;"></i></a>                                   
+                    <a title="Verifikasi" href="${Badge}" target="_blank"><i class="fa fa-info-circle fa-3x" aria-hidden="true" style="color: white;"></i></a>                                   
                   </div>
                 </div>
                 <div class="card-body">
