@@ -5,7 +5,7 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Workshop Pentest Teknik Spyware",
+    title: "Workshop Pentest Teknik Spyware - G Inova",
     cardImage: "assets/images/education-page/spywar.jpg",
     moocLink: "assets/images/education-page/spywar.jpg",
   },
