@@ -1,2 +1,3 @@
+/.htaccess
 application/config/telegram.php
 application/config/database.php
