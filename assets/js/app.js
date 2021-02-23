@@ -45,7 +45,7 @@ let footer = $(`
               <input type="text" name="phone" placeholder="No Handphone" />
               <input type="text" name="subject" placeholder="Judul" />
               <textarea name="message" placeholder="Isi Pesan" required ></textarea>
-              <input type="submit" value="Send" />
+              <input type="submit" value="Kirim" />
             </form>
           </div>
         </div>
