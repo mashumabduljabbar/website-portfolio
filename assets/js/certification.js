@@ -68,6 +68,16 @@ const moocscards = [
     Badge: "https://www.youracclaim.com/badges/539e6526-bc69-43c3-8ee4-7d060734820a",
   },
   {
+    title: "Google IT Support Professional Certificate",
+    ID: "KQ7TDRCWRYKW",
+    DATE: "2020-11-07",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/GoogleITcompletionbadge.png",
+    moocLink: "assets/images/certification-page/2020-11-07-Technical-Support-Fundamentals.pdf",
+    Badge: "https://www.youracclaim.com/badges/028e2322-cda8-4395-a524-d01ae25979d6",
+	//https://www.coursera.org/account/accomplishments/verify/KQ7TDRCWRYKW
+  },
+  {
     title: "HCIA-Routing & Switching (HCIA-RS)",
     ID: "01010010180805057623798",
     DATE: "2020-09-13",
