@@ -9,8 +9,8 @@ const moocscards = [
     ID: "ACLC02210300048828",
     DATE: "2021-02-23",
     EXPIRED: "2023-02-23",
-    cardImage: "assets/images/certification-page/aclc01.png",
-    moocLink: "assets/images/certification-page/aclc01.pdf",
+    cardImage: "assets/images/certification-page/aclc02.png",
+    moocLink: "assets/images/certification-page/aclc02.pdf",
     Badge: "https://edu.alibabacloud.com/certification/clouder_dynamicweb?spm=a2c4d.8764728.aliyun-edu-course-header.4.42f24ae0IReJHe",
 	// https://xuecdn2.aliyunedu.net/img_f512ccb08e7a5d2325cbd6df5dfe50a6.png
   },{
