@@ -5,6 +5,15 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "ACA - Cloud Computing",
+    ID: "IACA01210300048885L",
+    DATE: "2021-03-29",
+    EXPIRED: "2023-03-29",
+    cardImage: "assets/images/certification-page/acacc.png",
+    moocLink: "assets/images/certification-page/acacc.pdf",
+    Badge: "https://edu.alibabacloud.com/certification/aca_cloudcomputing",
+	// https://xuecdn2.aliyunedu.net/img_0b04ebda75b8c69d0e46994b103b298a.png
+  },{
     title: "Aspara Clouder - Cloud Computing ACLC02",
     ID: "ACLC02210300048828",
     DATE: "2021-03-27",
