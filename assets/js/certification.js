@@ -80,7 +80,7 @@ const moocscards = [
     title: "Remote Work and Virtual Collaboration Professional Certificate",
     ID: "53666016",
     DATE: "2020-12-16",
-    EXPIRED: "2022-12-016",
+    EXPIRED: "2022-12-16",
     cardImage: "assets/images/certification-page/RWVCPC.png",
     moocLink: "assets/images/certification-page/RWVCPC.pdf",
     Badge: "https://www.youracclaim.com/badges/9170399d-21e7-437f-a0e1-dc4b99bbff52",
