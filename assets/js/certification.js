@@ -86,6 +86,15 @@ const moocscards = [
     Badge: "https://www.youracclaim.com/badges/9170399d-21e7-437f-a0e1-dc4b99bbff52",
   },
   {
+    title: "Open Source Software Development, Linux and Git Specialization",
+    ID: "LM6JBZ4Q4CHM",
+    DATE: "2020-12-02",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/git.png",
+    moocLink: "assets/images/certification-page/2020-12-02-Using-Git-for-Distributed-Development.pdf",
+    Badge: "https://www.youracclaim.com/badges/7b1ad24b-f76e-4ced-b62d-a8c4b398d29b",
+  },
+  {
     title: "Cyber Security Foundation Professional Certificate (CSFPC)",
     ID: "52242347",
     DATE: "2020-11-26",
