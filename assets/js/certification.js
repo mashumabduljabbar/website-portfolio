@@ -5,6 +5,15 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Aspara Clouder - Technical Certificate",
+    ID: "ACFS06210400049219",
+    DATE: "2021-04-07",
+    EXPIRED: "2023-04-07",
+    cardImage: "assets/images/certification-page/ddos1.png",
+    moocLink: "assets/images/certification-page/ddos1.pdf",
+    Badge: "https://edu.alibabacloud.com/certification/apsaraclouder_special_edition",
+	// https://xuecdn2.aliyunedu.net/img_b358cf17a90f4ad59454d4e4d7d3abcc.png
+  },{
     title: "ACA - Cloud Computing",
     ID: "IACA01210300048885L",
     DATE: "2021-03-29",
