@@ -14,7 +14,7 @@ const moocscards = [
     Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACFS04210400049319",
 	// https://xuecdn2.aliyunedu.net/img_b271a6fc0afddabe425aa0984ff0c2ab.png
   },{
-    title: "ACCS - Use Alibaba Cloud Anti-DDoS Basic And Pro To Defend DoS Attack",
+    title: "ACCS - Use Alibaba Cloud Anti-DDoS To Defend DoS Attack",
     ID: "ACFS06210400049219",
     DATE: "2021-04-07",
     EXPIRED: "2023-04-07",
