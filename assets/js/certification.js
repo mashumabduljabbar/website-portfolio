@@ -4,7 +4,17 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
+/*
   {
+    title: "ACCS - Protect Your Web Application on Alibaba Cloud",
+    ID: "ACFS02210400049366",
+    DATE: "2021-04-09",
+    EXPIRED: "2023-04-09",
+    cardImage: "assets/images/certification-page/ddos3.png",
+    moocLink: "assets/images/certification-page/ddos3.pdf",
+    Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACFS02210400049366",
+	// https://xuecdn2.aliyunedu.net/img_4ebe11c26ce162e5f349583ed972b4c9.png
+  },{
     title: "ACCS - Best Practice to Protect Your Servers on Alibaba Cloud",
     ID: "ACFS04210400049319",
     DATE: "2021-04-08",
@@ -22,7 +32,9 @@ const moocscards = [
     moocLink: "assets/images/certification-page/ddos1.pdf",
     Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACFS06210400049219",
 	// https://xuecdn2.aliyunedu.net/img_b358cf17a90f4ad59454d4e4d7d3abcc.png
-  },{
+  },
+ */ 
+  {
     title: "ACA - Cloud Computing",
     ID: "IACA01210300048885L",
     DATE: "2021-03-29",
@@ -31,7 +43,9 @@ const moocscards = [
     moocLink: "assets/images/certification-page/acacc.pdf",
     Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA01210300048885L",
 	// https://xuecdn2.aliyunedu.net/img_0b04ebda75b8c69d0e46994b103b298a.png
-  },{
+  },
+/*  
+  {
     title: "ACCC - Using ECS to Construct a Dynamic Website",
     ID: "ACLC02210300048828",
     DATE: "2021-03-27",
@@ -67,7 +81,8 @@ const moocscards = [
     moocLink: "assets/images/certification-page/acaoss.pdf",
     Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACLC05210200046501",
 	// https://xuecdn2.aliyunedu.net/img_40b6fc8a6f9927d6523ac3519ff86927.png
-  },{
+  },
+  {
     title: "Scrum Master Professional Certificate (SMPC)",
     ID: "56968286",
     DATE: "2021-02-06",
@@ -76,6 +91,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/scrummaster.pdf",
     Badge: "https://www.youracclaim.com/badges/75ed50f4-5cf2-4d8e-bc66-48597f32f8a2",
   },
+*/  
   {
     title: "ACA - Cloud Security",
     ID: "IACA02210200045530L",
@@ -95,6 +111,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/nse2.pdf",
     Badge: "https://training.fortinet.com/mod/customcert/verify_certificate.php",
   },
+/*
   {
     title: "NSE 1 Network Security Associate",
     ID: "A0Pqfe49qf",
@@ -113,6 +130,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/RWVCPC.pdf",
     Badge: "https://www.youracclaim.com/badges/9170399d-21e7-437f-a0e1-dc4b99bbff52",
   },
+*/
   {
     title: "Open Source Software Development, Linux and Git Specialization",
     ID: "LM6JBZ4Q4CHM",
@@ -122,6 +140,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/2020-12-02-Using-Git-for-Distributed-Development.pdf",
     Badge: "https://www.youracclaim.com/badges/7b1ad24b-f76e-4ced-b62d-a8c4b398d29b",
   },
+/*  
   {
     title: "Cyber Security Foundation Professional Certificate (CSFPC)",
     ID: "52242347",
@@ -131,6 +150,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/csfpc.pdf",
     Badge: "https://www.youracclaim.com/badges/539e6526-bc69-43c3-8ee4-7d060734820a",
   },
+*/
   {
     title: "Google IT Support Professional Certificate",
     ID: "KQ7TDRCWRYKW",
@@ -177,6 +197,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/ace.pdf",
     Badge: "https://www.youracclaim.com/badges/9f11dca7-0de2-4fe5-b9cd-ff1c18aa8bb5",
   },
+/*  
   {
     title: "Scrum Foundation Professional Certificate (SFPC)",
     ID: "CLVPNFNNYY-SLJKKKZV-XHRCTHPRMS",
@@ -186,6 +207,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/sfpc.pdf",
     Badge: "https://www.youracclaim.com/badges/64a6eac6-d432-4648-986a-a0779255e2d8",
   },
+*/
   {
     title: "Certified Network Security Specialist (CNSS)",
     ID: "18981258",
