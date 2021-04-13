@@ -70,7 +70,7 @@
               <h6><em>Ahli Madya (A.Md.)</em></h6>
               <h6><em>Teknik Informatika</em></h6>
               <h6><em>2016-2018</em></h6>
-			  <h6><em>GPA : 3.63 / 4.0</em></h6></div>
+			  <h6><em>GPA : 3.84 / 4.0</em></h6></div>
           </div>
         </div>
       </div>
