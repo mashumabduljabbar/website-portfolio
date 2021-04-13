@@ -38,7 +38,7 @@
             <h6><em>Magister Teknik Informatika (M.T.I.)</em></h6>
             <h6><em>Teknik Informatika</em></h6>
             <h6><em>2019-2020</em></h6>
-			<h6><em>GPA : 3.82 / 4.0</em></h6></div>
+			<h6><em>GPA : 3.83 / 4.0</em></h6></div>
           </div>
         </div>
       </div>
