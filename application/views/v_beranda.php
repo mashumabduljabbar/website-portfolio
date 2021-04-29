@@ -16,7 +16,7 @@
                 <img src="assets/images/me.jpg" alt="" class="rounded-circle" height="210" width="200">
             </div>
             <span style="display: inline;" >Saya seorang <span class="animated-text"
-                data-words="IT Enthusiast, Programmer, Database Administrator, Dosen, Content Creator"></span>
+                data-words="IT Enthusiast, Programmer, Database Engineer, System Analyst"></span>
             </span>
             <div>
                 <div class="social-icons">

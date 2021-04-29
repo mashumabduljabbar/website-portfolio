@@ -4,6 +4,26 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
+  {
+    title: "Google Project Management Certificate",
+    ID: "8SSGYJ7BDMZN",
+    DATE: "2021-04-23",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/gpmc.png",
+    moocLink: "assets/images/certification-page/gpmc.pdf",
+    Badge: "https://www.credly.com/badges/a7fe2c83-db6d-4120-9d5b-ed660ac7d97d",
+	// https://xuecdn2.aliyunedu.net/img_0b04ebda75b8c69d0e46994b103b298a.png
+  },
+  {
+    title: "CCNA: Introduction to Networks",
+    ID: "549f7261-6537-4402-a1c3-bf0042d43c34",
+    DATE: "2021-04-12",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/ccnaitn.png",
+    moocLink: "assets/images/certification-page/ccnaitn.pdf",
+    Badge: "https://www.credly.com/badges/549f7261-6537-4402-a1c3-bf0042d43c34",
+	// https://xuecdn2.aliyunedu.net/img_0b04ebda75b8c69d0e46994b103b298a.png
+  },
 /*
   {
     title: "ACCS - Protect Your Web Application on Alibaba Cloud",
@@ -82,6 +102,7 @@ const moocscards = [
     Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACLC05210200046501",
 	// https://xuecdn2.aliyunedu.net/img_40b6fc8a6f9927d6523ac3519ff86927.png
   },
+*/ 
   {
     title: "Scrum Master Professional Certificate (SMPC)",
     ID: "56968286",
@@ -91,7 +112,6 @@ const moocscards = [
     moocLink: "assets/images/certification-page/scrummaster.pdf",
     Badge: "https://www.youracclaim.com/badges/75ed50f4-5cf2-4d8e-bc66-48597f32f8a2",
   },
-*/  
   {
     title: "ACA - Cloud Security",
     ID: "IACA02210200045530L",
