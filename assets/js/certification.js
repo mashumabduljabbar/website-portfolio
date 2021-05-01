@@ -5,6 +5,14 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "CCNA: Switching, Routing, and Wireless Essentials",
+    ID: "09614485-36b9-48b5-b775-0c2f63becaf9",
+    DATE: "2021-05-01",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/ccnasrwe.png",
+    moocLink: "assets/images/certification-page/ccnasrwe.pdf",
+    Badge: "https://www.credly.com/badges/09614485-36b9-48b5-b775-0c2f63becaf9",
+  },{
     title: "Google Project Management Certificate",
     ID: "8SSGYJ7BDMZN",
     DATE: "2021-04-23",
@@ -12,7 +20,6 @@ const moocscards = [
     cardImage: "assets/images/certification-page/gpmc.png",
     moocLink: "assets/images/certification-page/gpmc.pdf",
     Badge: "https://www.credly.com/badges/a7fe2c83-db6d-4120-9d5b-ed660ac7d97d",
-	// https://xuecdn2.aliyunedu.net/img_0b04ebda75b8c69d0e46994b103b298a.png
   },
   {
     title: "CCNA: Introduction to Networks",
@@ -22,7 +29,6 @@ const moocscards = [
     cardImage: "assets/images/certification-page/ccnaitn.png",
     moocLink: "assets/images/certification-page/ccnaitn.pdf",
     Badge: "https://www.credly.com/badges/549f7261-6537-4402-a1c3-bf0042d43c34",
-	// https://xuecdn2.aliyunedu.net/img_0b04ebda75b8c69d0e46994b103b298a.png
   },
 /*
   {
