@@ -5,6 +5,23 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "ACA - Cloud Native",
+    ID: "IACA05210600052353L",
+    DATE: "2021-06-15",
+    EXPIRED: "2023-06-15",
+    cardImage: "assets/images/certification-page/acacloudnative.png",
+    moocLink: "assets/images/certification-page/acacloudnative.pdf",
+    Badge: "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA05210600052353L",
+	//https://xuecdn2.aliyunedu.net/img_54e3c2f2900d9e7e7fe185ad561e7f9d.png
+  },{
+    title: "CCNA: Enterprise Networking, Security, and Automation",
+    ID: "a66509f1-6c3c-45b2-82bd-176c6f1a9351",
+    DATE: "2021-06-09",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/ccnaensa.png",
+    moocLink: "assets/images/certification-page/ccnaensa.pdf",
+    Badge: "https://www.credly.com/badges/a66509f1-6c3c-45b2-82bd-176c6f1a9351",
+  },{
     title: "ACA - Cloud Security",
     ID: "IACA02210500050689L",
     DATE: "2021-05-11",
