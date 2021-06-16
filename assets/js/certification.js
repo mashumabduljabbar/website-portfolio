@@ -226,7 +226,7 @@ const moocscards = [
     title: "Juniper Networks Certified Associate, Junos (JNCIA-Junos)",
     ID: "JPR00297543",
     DATE: "2020-07-17",
-    EXPIRED: "Seumur Hidup",
+    EXPIRED: "2023-07-17",
     cardImage: "assets/images/certification-page/jncia-junos.png",
     moocLink: "assets/images/certification-page/jncia-junos.pdf",
     Badge: "https://www.youracclaim.com/badges/e62840d2-fe03-4d09-87c7-9945424f5df9",
