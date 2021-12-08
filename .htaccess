@@ -3,7 +3,7 @@ RewriteEngine on
 DirectoryIndex index.php
 RewriteCond $1 !^(index.php|resources|robots.txt)
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://multimediary.my.id/$1 [R,L]
+RewriteRule ^(.*)$ https://mashumabduljabbar.000webhostapp.com/$1 [R,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L,QSA]
