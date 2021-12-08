@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio
 
-Multimediary sebuah branding yang saya mulai sejak bangku sekolah dan terus saya gunakan di akun-akun sosal media dan profesional saya, https://mashumabduljabbar.my.id/ sebagai website pribadi ini menampilkan portofolio saya dengan cukup lengkap.
+Multimediary sebuah branding yang saya mulai sejak bangku sekolah dan terus saya gunakan di akun-akun sosal media dan profesional saya, http://mashumabduljabbar.my.id/ atau https://mashumabduljabbar.000webhostapp.com/ sebagai website pribadi ini menampilkan portofolio saya dengan cukup lengkap.
 
 Menu Beranda : menampilkan info Nama dan Foto Pribadi saya, akun sosial media yang saya miliki, beserta fitur chat pada tombol berlogo WhatsApp untuk kirim pesan by WA dan juga fitur Hubungi Saya untuk kirim pesan yang akan masuk ke Telegram saya. Serta pada footer juga menampilkan peta lokasi Rumah saya yang sudah saya labeli pada Google My Business dengan nama Multimediary Gaswad.
 
