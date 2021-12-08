@@ -17,4 +17,4 @@ Menu Publikasi : menampilkan publikasi seperti jurnal, atau karya ilmiah yang pe
 
 Terakhir Menu Unduh CV : ini untuk mendownload berkas PDF yang bisa dicetak yang berisikan CV terbaru saya yang biasanya akan digunakan oleh rekruter untuk seleksi berkas.
 
-Website ini sudah disertai dengan SSL dan dihosting dicloud sehingga lebih kelihatan profesional, sedangkan repositorynya dapat dilihat di git : https://github.com/multimediary/portfolio barangkali ada yang mau membuat Website Portofolio dengan design yang sama.
+Website ini sudah disertai dengan SSL dan dihosting dicloud sehingga lebih kelihatan profesional, sedangkan repositorynya dapat dilihat di git : https://github.com/mashumabduljabbar/website-portfolio barangkali ada yang mau membuat Website Portofolio dengan design yang sama.
