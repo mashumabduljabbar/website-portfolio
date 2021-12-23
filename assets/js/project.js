@@ -78,7 +78,7 @@ const projects = [
   },{
     title: "MORE",
     cardImage: "assets/images/project-page/GitHub-logo.png",
-    description: "<a style='color: yellow;' href='https://github.com/multimediary/myportofolio/' target='_blank'>https://github.com/multimediary/myportofolio/</a>",
+    description: "<a style='color: yellow;' href='https://github.com/mashumabduljabbar/myportofolio/' target='_blank'>https://github.com/mashumabduljabbar/myportofolio/</a>",
     tags: ["Git"],
     Previewlink: "https://github.com/mashumabduljabbar/myportofolio/",
     Githublink: "https://github.com/mashumabduljabbar/myportofolio/",
