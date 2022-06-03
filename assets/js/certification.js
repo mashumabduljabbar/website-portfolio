@@ -140,10 +140,10 @@ const moocscards = [
     title: "Scrum Master Professional Certificate (SMPC)",
     ID: "56968286",
     DATE: "2021-02-06",
-    EXPIRED: "Seumur Hidup",
+    EXPIRED: "2024-05-19",
     cardImage: "assets/images/certification-page/scrummaster.png",
     moocLink: "assets/images/certification-page/scrummaster.pdf",
-    Badge: "https://www.youracclaim.com/badges/75ed50f4-5cf2-4d8e-bc66-48597f32f8a2",
+    Badge: "https://www.credly.com/badges/66d4305c-24d7-49f2-b7cb-ec19664b0ed2",
   },
   {
     title: "NSE 2 Network Security Associate",
