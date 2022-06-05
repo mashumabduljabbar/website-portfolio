@@ -5,6 +5,24 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Cisco DevNet Associate",
+    ID: "edbb3641-b58b-45e6-a7e7-9604195f448d",
+    DATE: "2022-05-23",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/devnet.png",
+    moocLink: "assets/images/certification-page/devnet.pdf",
+    Badge: "https://www.credly.com/badges/edbb3641-b58b-45e6-a7e7-9604195f448d",
+  },
+  {
+    title: "Scrum Master Professional Certificate (SMPC)",
+    ID: "56968286",
+    DATE: "2021-02-06",
+    EXPIRED: "2024-05-19",
+    cardImage: "assets/images/certification-page/scrummaster.png",
+    moocLink: "assets/images/certification-page/scrummaster.pdf",
+    Badge: "https://www.credly.com/badges/66d4305c-24d7-49f2-b7cb-ec19664b0ed2",
+  },
+  {
     title: "ACA - Cloud Native",
     ID: "IACA05210600052353L",
     DATE: "2021-06-15",
@@ -137,15 +155,6 @@ const moocscards = [
   },
 */ 
   {
-    title: "Scrum Master Professional Certificate (SMPC)",
-    ID: "56968286",
-    DATE: "2021-02-06",
-    EXPIRED: "2024-05-19",
-    cardImage: "assets/images/certification-page/scrummaster.png",
-    moocLink: "assets/images/certification-page/scrummaster.pdf",
-    Badge: "https://www.credly.com/badges/66d4305c-24d7-49f2-b7cb-ec19664b0ed2",
-  },
-  {
     title: "NSE 2 Network Security Associate",
     ID: "b4nXLLpHsM",
     DATE: "2021-01-10",
@@ -180,7 +189,7 @@ const moocscards = [
     DATE: "2020-12-02",
     EXPIRED: "Seumur Hidup",
     cardImage: "assets/images/certification-page/git.png",
-    moocLink: "assets/images/certification-page/2020-12-02-Using-Git-for-Distributed-Development.pdf",
+    moocLink: "assets/images/certification-page/git.pdf",
     Badge: "https://www.youracclaim.com/badges/7b1ad24b-f76e-4ced-b62d-a8c4b398d29b",
   },
 /*  
@@ -199,8 +208,8 @@ const moocscards = [
     ID: "KQ7TDRCWRYKW",
     DATE: "2020-11-07",
     EXPIRED: "Seumur Hidup",
-    cardImage: "assets/images/certification-page/GoogleITcompletionbadge.png",
-    moocLink: "assets/images/certification-page/2020-11-07-Technical-Support-Fundamentals.pdf",
+    cardImage: "assets/images/certification-page/itsupport.png",
+    moocLink: "assets/images/certification-page/itsupport.pdf",
     Badge: "https://www.youracclaim.com/badges/028e2322-cda8-4395-a524-d01ae25979d6",
 	//https://www.coursera.org/account/accomplishments/verify/KQ7TDRCWRYKW
   },
