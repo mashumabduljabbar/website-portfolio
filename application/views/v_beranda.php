@@ -26,20 +26,7 @@
 					
 					<a title="LinkedIn" class="socialicon linkedin" href="https://www.linkedin.com/in/mashumabduljabbar" target="_blank" rel="author">
                         <i class="fab fa-linkedin-in"></i>
-                    </a>
-					
-					<a title="Instagram" class="socialicon instagram" href="https://www.instagram.com/mashumabduljabbar" target="_blank" rel="author">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-					
-					<a title="Facebook" class="socialicon facebook" href="https://www.facebook.com/mashumabduljabbar" target="_blank" rel="author">
-                        <i class="fab fa-facebook"></i>
-                    </a>
-					
-					<a title="Twitter" class="socialicon twitter" href="https://twitter.com/mashumabdjabbar" target="_blank" rel="author">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-					
+                    </a>		
                     <a title="Medium" class="socialicon medium" href="https://mashumabduljabbar.medium.com/" target="_blank" rel="author">
                         <i class="fab fa-medium-m"></i>
                     </a>
