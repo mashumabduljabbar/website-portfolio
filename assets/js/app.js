@@ -21,7 +21,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="sertifikasi">Sertifikasi</a></li>
    <li class="nav-item"><a class="nav-link" href="proyek">Proyek</a></li>
    <li class="nav-item"><a class="nav-link" href="publikasi">Publikasi</a></li>
-   <li class="nav-item"><a class="nav-link" href="assets/2022-05-17.pdf" target="_blank">Unduh CV</a></li>
+   <li class="nav-item"><a class="nav-link" href="assets/CV.pdf" target="_blank">Unduh CV</a></li>
   </ul>
 </div>
 </nav>`);
