@@ -5,6 +5,15 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "NSE 3 Network Security Associate",
+    ID: "CpHhgPV2kD",
+    DATE: "2023-01-01",
+    EXPIRED: "2025-01-01",
+    cardImage: "assets/images/certification-page/nse3.png",
+    moocLink: "assets/images/certification-page/nse3.pdf",
+    Badge: "https://training.fortinet.com/mod/customcert/verify_certificate.php",
+  },
+  {
     title: "Cisco DevNet Associate",
     ID: "edbb3641-b58b-45e6-a7e7-9604195f448d",
     DATE: "2022-05-23",
@@ -154,6 +163,7 @@ const moocscards = [
 	// https://xuecdn2.aliyunedu.net/img_40b6fc8a6f9927d6523ac3519ff86927.png
   },
 */ 
+/*
   {
     title: "NSE 2 Network Security Associate",
     ID: "b4nXLLpHsM",
@@ -163,6 +173,7 @@ const moocscards = [
     moocLink: "assets/images/certification-page/nse2.pdf",
     Badge: "https://training.fortinet.com/mod/customcert/verify_certificate.php",
   },
+*/
 /*
   {
     title: "NSE 1 Network Security Associate",
