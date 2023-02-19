@@ -5,6 +5,15 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "AWS Cloud Quest: Cloud Practitioner",
+    ID: "37b3c915-e6f8-4b37-94c5-4fa26a1b7c64",
+    DATE: "2023-02-16",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/awscloudpractisioner.png",
+    moocLink: "assets/images/certification-page/awscloudpractisioner.png",
+    Badge: "https://www.credly.com/badges/37b3c915-e6f8-4b37-94c5-4fa26a1b7c64",
+  },
+  {
     title: "NSE 3 Network Security Associate",
     ID: "CpHhgPV2kD",
     DATE: "2023-01-01",

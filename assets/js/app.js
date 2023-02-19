@@ -15,17 +15,18 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-   <li class="nav-item"><a class="nav-link" href="beranda">Beranda</a></li>
-   <li class="nav-item"><a class="nav-link" href="pendidikan">Pendidikan & Pelatihan</a></li>
-   <li class="nav-item"><a class="nav-link" href="pengalaman">Pengalaman</a></li>
-   <li class="nav-item"><a class="nav-link" href="sertifikasi">Sertifikasi</a></li>
-   <li class="nav-item"><a class="nav-link" href="proyek">Proyek</a></li>
-   <li class="nav-item"><a class="nav-link" href="publikasi">Publikasi</a></li>
+   <li class="nav-item"><a class="nav-link" href="index.html">Beranda</a></li>
+   <li class="nav-item"><a class="nav-link" href="pendidikan.html">Pendidikan & Pelatihan</a></li>
+   <li class="nav-item"><a class="nav-link" href="pengalaman.html">Pengalaman</a></li>
+   <li class="nav-item"><a class="nav-link" href="sertifikasi.html">Sertifikasi</a></li>
+   <li class="nav-item"><a class="nav-link" href="proyek.html">Proyek</a></li>
+   <li class="nav-item"><a class="nav-link" href="publikasi.html">Publikasi</a></li>
    <li class="nav-item"><a class="nav-link" href="assets/CV.pdf" target="_blank">Unduh CV</a></li>
   </ul>
 </div>
 </nav>`);
 
+/* Kita hide dulu ya
 let footer = $(`
 <footer class="footer">
   <div class="container p-4">
@@ -54,7 +55,7 @@ let footer = $(`
   </div>
 </footer>
 `);
-
+*/
 
 
 // Window Loads

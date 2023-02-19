@@ -61,14 +61,18 @@ const projects = [
     tags: ["HTML5", "CSS3", "JS", "API"],
     Previewlink: "https://github.com/mashumabduljabbar/frontend-dicoding/",
     Githublink: "https://github.com/mashumabduljabbar/frontend-dicoding/",
-  },{
+  },
+  /*
+  {
     title: "Filter Make Up di Instagram",
     cardImage: "assets/images/project-page/MakeUp.jpg",
     description: "Efek lipstick, blush on, eyelash dan softlens hijau.",
     tags: ["Filter", "Instagram", "SparkAR"],
     Previewlink: "https://www.instagram.com/ar/449383966443594/?ch=ODEwYmUxMWQyNTdlNjY0NzI0MGMxYzgxZjhjOWUyNDM%3D",
     Githublink: "https://github.com/mashumabduljabbar/Portfolio/tree/main/Augmented%20Reality%20-%20Filter%20Make%20Up%20di%20Instagram",
-  },{
+  },
+  */
+  {
     title: "Filter Topeng Ant Mant di Instagram",
     cardImage: "assets/images/project-page/Antman.jpg",
     description: "Efek Topeng Ant Man dan Perubahan Suara.",

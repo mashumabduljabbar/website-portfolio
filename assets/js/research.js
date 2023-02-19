@@ -4,6 +4,19 @@ const researchTable = document.querySelector(".main");
 
 const research = [
     {
+        title : "Android-Based Malay Encyclopedia Using Pattern Match Method",
+        authors : "Ma’shum Abdul Jabbar",
+        conferences : " Indonesian Journal of Applied Research (IJAR), Vol. 3 No. 3 (2022)",
+        researchYr : 2022,
+        doi : "<a href='https://iojs.unida.ac.id/index.php/IJAR/article/view/232' target='_blank' style='color:blue;'>10.30997/ijar.v3i3.232</a>",
+        citebox : "popup1", //popup2 popup3 dst
+        image : "assets/images/research-page/ijar-cover_issue_20_en_US.jpg",
+        citation: {
+            vancouver: "Mashum Abdul Jabbar. (2022). ANDROID-BASED MALAY ENCYCLOPEDIA USING PATTERN MATCH METHOD. Indonesian Journal of Applied Research (IJAR), 3(3), 175-189. https://doi.org/10.30997/ijar.v3i3.232"
+        },
+        abstract: "Malay is spoken in the archipelago and the Malay Peninsula, becoming the official language in Indonesia, Brunei, and Malaysia. It is the national language of Singapore and the working language of Timor Leste and several other ASEAN countries. The Malay language is valuable and should be preserved so that future generations, especially in Indonesia, recognize the diversity of languages ​​that the Indonesian people have. One way to keep it is to document the Malay language in an encyclopedia, usually a thick book. Because thick books are not practical to carry everywhere and are not friendly for quick searches, the author developed a mobile application using the Android platform to make it easier for users to access information about the Malay language. The method used in this paper is A Pattern Match, a pattern search on a text string. The pattern match method is developed using System Development Life Cycle (SDLC), a common approach to application development. In this paper, the application only focuses on the Indonesian-to-Malay and Malay-to-Indonesian translation dictionary features and the poem search feature based on the keywords entered. The development of this system implements a client-server application that must connect the device to the Internet to access the server's data. The keyword search uses a pattern match, which produces output based on keywords that have similar patterns. Ten respondents utilized usability testing and showed that 85.71% thought it was good, 6.12% thought it was neutral, and 8.16% thought it was poor.",
+        absbox: "absPopup1" // absPopup2 absPopup3 dst
+    },{
         title : "Fraud Detection Call Detail Record Using Machine Learning in Telecommunications Company",
         authors : "Ma’shum Abdul Jabbar, Suharjito",
         conferences : "Advances in Science, Technology and Engineering Systems Journal Volume 5, Issue 4, Page No 63-69",

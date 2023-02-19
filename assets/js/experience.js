@@ -4,39 +4,47 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "IT Solution Architect Manager",
+    cardImage: "assets/images/experience-page/kelaspintar.png",
+    place: "PT Extramarks Education Indonesia",
+    time: "(Oktober 2022 – Sekarang)",
+  },
+  {
+    title: "Assistant Project Leader",
+    cardImage: "assets/images/experience-page/jsc.avif",
+    place: "Jakarta Smart City",
+    time: "(Februari 2021 – Agustus 2022)",
+  },
+  {
     title: "System Developer",
     cardImage: "assets/images/experience-page/logoofon.png",
     place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(1 Oktober 2020 – Sekarang)",
-    desp: "<li>Menganalisis persyaratan sistem informasi dan menerjemahkan persyaratan pengguna atau manajemen.</li><li>Mengawasi pelaksanaan roadmap pengembangan sistem dan menjembatani komunikasi antara tim dan pemangku kepentingan.</li><li>Berkomunikasi dengan pihak ketiga dalam hal pengumpulan persyaratan dan kebutuhan pengembangan sistem.</li><li>Komunikasikan sistem yang telah dikembangkan kepada tim operasional dan tim penjualan.</li>",
+    time: "(Oktober 2020 – September 2022)",
   },
   {
     title: "IT Leader",
     cardImage: "assets/images/experience-page/logoofon.png",
     place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(21 Desember 2018 - 30 September 2020)",
-    desp: "<li>Membuat perencanaan pembangunan infrastruktur jaringan telekomunikasi dan  implementasi atas kebijakan Regulator Telekomunikasi, serta monitoring  pelaksanaannya.</li><li>Menyediakan layanan telekomunikasi dan pengembangan pada lingkup IT untuk mendukung konsep Future Telephony.</li><li>Melakukan fungsi asisten manajer operasional terhadap layanan telekomunikasi dan sistem informasi, beserta monitoring terhadap penyelesaian penanganan gangguan layanan.</li><li>Melakukan analisa dan perencanaan pengembangan layanan telekomunikasi dan sistem IT, serta bekerjasama dengan vendor atau pihak ketiga.</li>",
+    time: "(Desember 2018 - September 2020)",
   },
   {
     title: "Officer MIS",
     cardImage: "assets/images/experience-page/logoofon.png",
     place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(01 Juni 2016 – 20 Desember 2018)",
-    desp:"<li>Membuat sistem informasi dan desain database, serta memfasilitasi kebutuhan CRUD (Create, Read, Update, Delete) sesuai permintaan.</li><li>Mendukung siklus pengembangan sistem dan bekerja dengan seluruh tim untuk terus berinovasi dalam meningkatkan kualitas dan kinerja sistem.</li><li>Memantau log aplikasi, sumber daya perangkat keras sistem, dan jaringan telekomunikasi.</li><li>Menangani pengoperasian dan pemeliharaan sistem, dan terlibat dalam QA (Quality Assurance) dan UAT (User Acceptance Testing).</li>",
+    time: "(Juni 2016 – Desember 2018)",
   },
   {
     title: "Officer Technic",
     cardImage: "assets/images/experience-page/Logobbtnew.png",
     place: "PT. Batam Bintan Telekomunikasi (BBT)",
-    time: "(01 September 2015 s/d 31 Agustus 2016)",
-    desp:"<li>Pengembangan Web Portal dan Database</li><li>Konfigurasi SIP Server, Klien VoIP dan IMS (IP Multimedia Subsystem)</li><li>Mengoperasikan softswitch dan IP PBX</li><li>Switching dan Routing untuk Interkoneksi Telco Provider</li><li>Perawatan dan pemecahan masalah perangkat IT.</li>",
+    time: "(September 2015 s/d Agustus 2016)",
   },
 ];
 
 const showCards2 = () => {
   let output = "";
   exp.forEach(
-    ({ title, cardImage, place, time, desp }) =>
+    ({ title, cardImage, place, time}) =>
       (output += `        
       <ul>
       <li class="card card1">
@@ -50,9 +58,6 @@ const showCards2 = () => {
               <span class="pre-heading">${place}</span><br>
               <span class="author">${time}</span>
             </p>
-            <ol>
-              ${desp}
-            </ol>
           </header>
         </article>
       </li>
