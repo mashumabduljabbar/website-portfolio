@@ -4,37 +4,31 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "IT Solution Architect Manager",
+    title: "IT Project Manager",
     cardImage: "assets/images/experience-page/kelaspintar.png",
     place: "PT Extramarks Education Indonesia",
     time: "(Oktober 2022 – Sekarang)",
+  },  
+  {
+    title: "Project Manager",
+    cardImage: "assets/images/experience-page/icthelp.jpg",
+    place: "ICT Help",
+    time: "(Februari 2022 – October 2022)",
   },
   {
-    title: "Assistant Project Leader",
+    title: "Project Manager",
     cardImage: "assets/images/experience-page/jsc.avif",
     place: "Jakarta Smart City",
-    time: "(Februari 2021 – Agustus 2022)",
+    time: "(Februari 2021 – Januari 2022)",
   },
   {
     title: "System Developer",
     cardImage: "assets/images/experience-page/logoofon.png",
     place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(Oktober 2020 – September 2022)",
+    time: "(September 2016 – Januari 2021)",
   },
   {
-    title: "IT Leader",
-    cardImage: "assets/images/experience-page/logoofon.png",
-    place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(Desember 2018 - September 2020)",
-  },
-  {
-    title: "Officer MIS",
-    cardImage: "assets/images/experience-page/logoofon.png",
-    place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(Juni 2016 – Desember 2018)",
-  },
-  {
-    title: "Officer Technic",
+    title: "Network Engineer",
     cardImage: "assets/images/experience-page/Logobbtnew.png",
     place: "PT. Batam Bintan Telekomunikasi (BBT)",
     time: "(September 2015 s/d Agustus 2016)",
