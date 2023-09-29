@@ -4,28 +4,16 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "IT Project Manager",
+    title: "IT Solution Architect Manager",
     cardImage: "assets/images/experience-page/kelaspintar.png",
-    place: "PT Extramarks Education Indonesia",
-    time: "(Oktober 2022 – Sekarang)",
+    place: "PT Extramarks Education Indonesia (Kelas Pintar)",
+    time: "(Oktober 2022 – Agustus 2023)",
   },  
   {
-    title: "Project Manager",
-    cardImage: "assets/images/experience-page/icthelp.jpg",
-    place: "ICT Help",
-    time: "(Februari 2022 – October 2022)",
-  },
-  {
-    title: "Project Manager",
-    cardImage: "assets/images/experience-page/jsc.avif",
-    place: "Jakarta Smart City",
-    time: "(Februari 2021 – Januari 2022)",
-  },
-  {
-    title: "System Developer",
+    title: "System Analyst",
     cardImage: "assets/images/experience-page/logoofon.png",
     place: "PT. Persada Nusantara Telekomunikasi (OFON)",
-    time: "(September 2016 – Januari 2021)",
+    time: "(September 2016 – September 2022)",
   },
   {
     title: "Network Engineer",
