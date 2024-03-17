@@ -5,6 +5,14 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Certified Product Development Managaer (CPDM)",
+    ID: "2023/CPDM-II/ESAS/XI/007",
+    DATE: "2023-11-19",
+    EXPIRED: "Seumur Hidup",
+    cardImage: "assets/images/certification-page/cpdm.png",
+    moocLink: "assets/images/certification-page/cpdm.pdf",
+    Badge: "#",
+  },{
     title: "AWS Cloud Quest: Cloud Practitioner",
     ID: "37b3c915-e6f8-4b37-94c5-4fa26a1b7c64",
     DATE: "2023-02-16",
